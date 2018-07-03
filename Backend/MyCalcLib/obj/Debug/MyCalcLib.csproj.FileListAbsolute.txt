@@ -16,3 +16,9 @@ C:\CombinedProjectBf\Backend\MyCalcLib\obj\Debug\MyCalcLib.csprojAssemblyReferen
 C:\CombinedProjectBf\Backend\MyCalcLib\obj\Debug\MyCalcLib.csproj.CoreCompileInputs.cache
 C:\CombinedProjectBf\Backend\MyCalcLib\obj\Debug\MyCalcLib.dll
 C:\CombinedProjectBf\Backend\MyCalcLib\obj\Debug\MyCalcLib.pdb
+C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\MyCalcLib\bin\Debug\MyCalcLib.dll
+C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\MyCalcLib\bin\Debug\MyCalcLib.pdb
+C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\MyCalcLib\obj\Debug\MyCalcLib.csprojAssemblyReference.cache
+C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\MyCalcLib\obj\Debug\MyCalcLib.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\MyCalcLib\obj\Debug\MyCalcLib.dll
+C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\MyCalcLib\obj\Debug\MyCalcLib.pdb
