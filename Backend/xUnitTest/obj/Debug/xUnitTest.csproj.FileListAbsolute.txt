@@ -79,3 +79,6 @@ C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\xUnitTest\obj\Debug
 C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\xUnitTest\obj\Debug\xUnitTest.csproj.CopyComplete
 C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\xUnitTest\obj\Debug\xUnitTest.dll
 C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\xUnitTest\obj\Debug\xUnitTest.pdb
+C:\CombinedProjectBf\Backend\xUnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\CombinedProjectBf\Backend\xUnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\CombinedProjectBf\Backend\xUnitTest\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
