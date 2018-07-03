@@ -1,0 +1,5 @@
+C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\MyCalcLib\bin\Release\MyCalcLib.dll
+C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\MyCalcLib\bin\Release\MyCalcLib.pdb
+C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\MyCalcLib\obj\Release\MyCalcLib.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\MyCalcLib\obj\Release\MyCalcLib.dll
+C:\Program Files (x86)\Jenkins\workspace\TestProject\Backend\MyCalcLib\obj\Release\MyCalcLib.pdb
