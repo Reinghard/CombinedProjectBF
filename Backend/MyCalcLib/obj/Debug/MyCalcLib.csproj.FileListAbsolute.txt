@@ -10,3 +10,9 @@ C:\oreo\MyCalcLib\obj\Debug\MyCalcLib.csprojAssemblyReference.cache
 C:\oreo\MyCalcLib\obj\Debug\MyCalcLib.csproj.CoreCompileInputs.cache
 C:\oreo\MyCalcLib\obj\Debug\MyCalcLib.dll
 C:\oreo\MyCalcLib\obj\Debug\MyCalcLib.pdb
+C:\CombinedProjectBf\Backend\MyCalcLib\bin\Debug\MyCalcLib.dll
+C:\CombinedProjectBf\Backend\MyCalcLib\bin\Debug\MyCalcLib.pdb
+C:\CombinedProjectBf\Backend\MyCalcLib\obj\Debug\MyCalcLib.csprojAssemblyReference.cache
+C:\CombinedProjectBf\Backend\MyCalcLib\obj\Debug\MyCalcLib.csproj.CoreCompileInputs.cache
+C:\CombinedProjectBf\Backend\MyCalcLib\obj\Debug\MyCalcLib.dll
+C:\CombinedProjectBf\Backend\MyCalcLib\obj\Debug\MyCalcLib.pdb
